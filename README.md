@@ -24,4 +24,5 @@ Bản chỉnh sửa phụ giữ nguyên tên nhân vật theo tiếng Anh chuẩ
 ## Discord Iris
 - Tham gia ngay vào Góc việt hóa của Iris-chan để hóng nhiều bản việt hóa chất lượng hơn đến từ team Iris
 [Discord](https://discord.com/invite/irisishere)
+
 *Chân thành cảm ơn **DangDev (Iris Team)** đã mang bản Việt hóa chất lượng đến cộng đồng!*
