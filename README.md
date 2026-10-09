@@ -14,9 +14,8 @@ Bản chỉnh sửa phụ giữ nguyên tên nhân vật theo tiếng Anh chuẩ
 
 ## 🎮 Cách cài đặt
 
-1. Đổi tên tệp thành `WuWaVH_99_P.pak`.
-2. Chép tệp PAK vào thư mục `Client/Binaries/Win64/wuwaVietHoa/` trong thư mục cài đặt game Wuthering Waves (thay thế tệp cũ).
-3. Khởi động game và trải nghiệm.
+1. Chép tệp PAK vào thư mục `Client/Binaries/Win64/wuwaVietHoa/` trong thư mục cài đặt game Wuthering Waves (thay thế tệp cũ).
+2. Khởi động game và trải nghiệm.
    
 ## ⚠️ Báo lỗi
 - _Hãy trực tiếp báo lỗi trên Issues để mình biết có lỗi ở đâu._
