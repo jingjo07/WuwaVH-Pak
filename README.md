@@ -13,7 +13,7 @@ Bản chỉnh sửa phụ giữ nguyên tên nhân vật theo tiếng Anh chuẩ
 ---
 
 ## 🎮 Cách cài đặt
-
+_Hãy tải bản [Release](https://github.com/jingjo07/WuwaVH-Pak/releases) mới nhất._
 1. Chép tệp PAK vào thư mục `Client/Binaries/Win64/wuwaVietHoa/` trong thư mục cài đặt game Wuthering Waves (thay thế tệp cũ).
 2. Khởi động game và trải nghiệm.
    
